@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "527209106729",
+    "project_id": "acm22-4859c",
+    "storage_bucket": "acm22-4859c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527209106729:android:9378bb5f0248ba5677fb38",
+        "android_client_info": {
+          "package_name": "com.hellocom.acm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527209106729-d1qvv6hp3eujbnon5v6k8vb9ck0gsl21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hellocom.acm",
+            "certificate_hash": "f4c4cb39a7854bcdab725076dc873907c86da429"
+          }
+        },
+        {
+          "client_id": "527209106729-dakcccpp0orcd8lqt309cpjoo9aekree.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjPaGm7H-otn5I3rbhd13PQWLcYWe7DTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527209106729-dakcccpp0orcd8lqt309cpjoo9aekree.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527209106729-9kk4s30nr1i7fbkboeprg86tf2u1d776.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hellocom.acm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
